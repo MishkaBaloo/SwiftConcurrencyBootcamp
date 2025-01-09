@@ -18,6 +18,7 @@
 		CE5727242D2DDFC200AFBD1E /* AsyncLetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5727232D2DDFC200AFBD1E /* AsyncLetBootcamp.swift */; };
 		CE7776FB2D29AB4B00EB9878 /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7776FA2D29AB4B00EB9878 /* TaskBootcamp.swift */; };
 		CEDB8B702D284BD300029D24 /* AsyncAwaitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDB8B6F2D284BD300029D24 /* AsyncAwaitBootcamp.swift */; };
+		CEE0EE872D303E0800FDCC99 /* StructClassActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE0EE862D303E0800FDCC99 /* StructClassActorBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		CE5727232D2DDFC200AFBD1E /* AsyncLetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLetBootcamp.swift; sourceTree = "<group>"; };
 		CE7776FA2D29AB4B00EB9878 /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
 		CEDB8B6F2D284BD300029D24 /* AsyncAwaitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBootcamp.swift; sourceTree = "<group>"; };
+		CEE0EE862D303E0800FDCC99 /* StructClassActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				CE5727232D2DDFC200AFBD1E /* AsyncLetBootcamp.swift */,
 				CE372C512D2EDB6900117F1A /* TaskGroupBootcamp.swift */,
 				CE372C532D2EF7AA00117F1A /* CheckedContinuatedBootcamp.swift */,
+				CEE0EE862D303E0800FDCC99 /* StructClassActorBootcamp.swift */,
 				CE1307F62CA1AB2000483C98 /* Assets.xcassets */,
 				CE1307F82CA1AB2000483C98 /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 				CE1308032CA1D4B700483C98 /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				CE1307F52CA1AB1F00483C98 /* ContentView.swift in Sources */,
 				CE7776FB2D29AB4B00EB9878 /* TaskBootcamp.swift in Sources */,
+				CEE0EE872D303E0800FDCC99 /* StructClassActorBootcamp.swift in Sources */,
 				CEDB8B702D284BD300029D24 /* AsyncAwaitBootcamp.swift in Sources */,
 				CE1307F32CA1AB1F00483C98 /* SwiftConcurrencyBootcampApp.swift in Sources */,
 				CE372C542D2EF7AA00117F1A /* CheckedContinuatedBootcamp.swift in Sources */,
