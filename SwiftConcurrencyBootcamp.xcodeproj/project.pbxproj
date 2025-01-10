@@ -22,6 +22,7 @@
 		CEE69E212D31842E00688C41 /* ActorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE69E202D31842E00688C41 /* ActorsBootcamp.swift */; };
 		CEE69E232D319DA100688C41 /* GlobalActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE69E222D319DA100688C41 /* GlobalActorBootcamp.swift */; };
 		CEE69E252D31C13700688C41 /* SendableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE69E242D31C13700688C41 /* SendableBootcamp.swift */; };
+		CEE69E272D31D3B100688C41 /* AsyncPublisherBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE69E262D31D3B100688C41 /* AsyncPublisherBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		CEE69E202D31842E00688C41 /* ActorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootcamp.swift; sourceTree = "<group>"; };
 		CEE69E222D319DA100688C41 /* GlobalActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBootcamp.swift; sourceTree = "<group>"; };
 		CEE69E242D31C13700688C41 /* SendableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableBootcamp.swift; sourceTree = "<group>"; };
+		CEE69E262D31D3B100688C41 /* AsyncPublisherBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				CEE69E202D31842E00688C41 /* ActorsBootcamp.swift */,
 				CEE69E222D319DA100688C41 /* GlobalActorBootcamp.swift */,
 				CEE69E242D31C13700688C41 /* SendableBootcamp.swift */,
+				CEE69E262D31D3B100688C41 /* AsyncPublisherBootcamp.swift */,
 				CE1307F62CA1AB2000483C98 /* Assets.xcassets */,
 				CE1307F82CA1AB2000483C98 /* Preview Content */,
 			);
@@ -180,6 +183,7 @@
 				CEDB8B702D284BD300029D24 /* AsyncAwaitBootcamp.swift in Sources */,
 				CEE69E232D319DA100688C41 /* GlobalActorBootcamp.swift in Sources */,
 				CE1307F32CA1AB1F00483C98 /* SwiftConcurrencyBootcampApp.swift in Sources */,
+				CEE69E272D31D3B100688C41 /* AsyncPublisherBootcamp.swift in Sources */,
 				CE372C542D2EF7AA00117F1A /* CheckedContinuatedBootcamp.swift in Sources */,
 				CE5727242D2DDFC200AFBD1E /* AsyncLetBootcamp.swift in Sources */,
 				CE372C522D2EDB6900117F1A /* TaskGroupBootcamp.swift in Sources */,
