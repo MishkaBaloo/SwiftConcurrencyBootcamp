@@ -48,7 +48,7 @@ class AsyncStreamDataManager {
         
        let task = Task {
             do {
-                for try await value in manager.getAsyncStream().{
+                for try await value in manager.getAsyncStream().dropFirst(2) {
                     currentNumber = value
                 }
             } catch {
